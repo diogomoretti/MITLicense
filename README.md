@@ -1,6 +1,6 @@
 ## The MIT License (MIT)
 
-Copyright (c) 2014 - [Diogo Moretti](https://github.com/diogomoretti)
+Copyright (c) 2015 - [Diogo Moretti](https://github.com/diogomoretti)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
